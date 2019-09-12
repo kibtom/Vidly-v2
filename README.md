@@ -12,7 +12,8 @@ The project was just a learning path into MVC 5 framework using entity framework
  - Test on different Database engine
  
 # usage
-Use as a template to learn MVC 
+ - Use as a template to learn MVC 
+ - Improve and use it on your project
 
 # Summary
 I am a strong believer of good programming principles hence my suggestions, if you new in programming understand the .NET framework 
