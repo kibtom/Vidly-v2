@@ -1,11 +1,11 @@
 # Vidly-v2
 The project was just a learning path into MVC 5 framework using entity framework and code first.  The followiing was used to make it possible;
  - MVC 5
- - _.net framework 4.6.*
- - _Entity Framework
- - _JQuery
- - _Bootstraps
- - _NUnit 
+ - .net framework 4.6.*
+ - Entity Framework
+ - JQuery
+ - Bootstraps
+ - NUnit 
  
 # For Improvment;
  - Color scheme around Menu can be improved
